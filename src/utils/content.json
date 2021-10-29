@@ -1,0 +1,33 @@
+{
+  "content": [
+    {
+      "name": "Rachel",
+      "last-name": "Green",
+      "actor": "Jennifer Aniston"
+    },
+
+    {
+      "name": "Ross",
+      "last-name": "Gellar",
+      "actor": "David Schwimmer"
+    },
+
+    {
+      "name": "Phoebe",
+      "last-name": "Buffay",
+      "actor": "Lisa Kudrow"
+    },
+
+    {
+      "name": "Monica",
+      "last-name": "Gellar",
+      "actor": "Courtney Cox"
+    },
+
+    {
+      "name": "Joey",
+      "last-name": "Tribbiani",
+      "actor": "Matt LeBlanc"
+    }
+  ]
+}

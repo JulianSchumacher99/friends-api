@@ -7,14 +7,14 @@ GET http://localhost:3000/api/characters HTTP/1.1
 GET http://localhost:3000/api/characters/Rachel HTTP/1.1
 
 ### DELETE a Character
+DELETE http://localhost:3000/api/characters/Rachel HTTP/1.1
 
-GET http://localhost:3000/api/characters/Monica HTTP/1.1
+### UPDATE a Character
+PUT http://localhost:3000/api/characters/Chandler HTTP/1.1
 
 ### POST a Character
-
 POST http://localhost:3000/api/characters HTTP/1.1
 Content-Type: application/json
-
 {
     "name": "Chandler",
     "last-name":"Bing",
