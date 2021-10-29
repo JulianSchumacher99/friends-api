@@ -12,7 +12,7 @@ GET http://localhost:3000/api/characters/Monica HTTP/1.1
 
 ### POST a Character
 
-GET http://localhost:3000/api/characters HTTP/1.1
+POST http://localhost:3000/api/characters HTTP/1.1
 Content-Type: application/json
 
 {
